@@ -2318,5 +2318,27 @@
         "storage": "512 ssd",
         "link": "https://www.amazon.in/HP-Graphics-Response-Backlit-15-fa0070TX/dp/B0B74ZY9R1/ref=sr_1_3?keywords=hp%2Bvictus%2Bi5%2B12th%2Bgen&qid=1664560251&qu=eyJxc2MiOiIyLjU4IiwicXNhIjoiMi4yMiIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=hp%2Bvictus%2Bi%2Caps%2C388&sr=8-3&th=1",
         "price": "Rs 59990"
+    },
+    {
+        "id": 40,
+        "modelName": "Lenovo Legion 5",
+        "company": "Lenovo",
+        "operatingSystem": "Windows 11 ",
+        "processorCompany": "Intel",
+        "processorModel": [
+            "10th Gen Intel Core i7-10750H"
+        ],
+        "graphicsCard": [
+            "NVIDIA GTX 1650 4GB"
+        ],
+        "display": [
+            "15.6 Full HD (1920x1080) | Wide Viewing Angle | Anti-Glare | IPS Technology | 120 Hz Refresh Rate"
+        ],
+        "memory": "16 gb",
+        "storage": "512 gb SSD",
+        "link": "https://www.amazon.in/Lenovo-i7-10750H-39-63cm-Windows-82AU00PNIN/dp/B097TY6PTN",
+        "price": "Rs 1,05,000"
     }
+    
+    
 ]
